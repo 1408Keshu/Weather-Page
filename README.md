@@ -24,7 +24,7 @@ A lightweight weather application that allows users to get real-time weather inf
 
 1. Clone the repository:  
    ```bash
-   git clone <repository-url>
+   git clone https://1408keshu.github.io/Weather-Page/
    cd weather-app
    ```
 
